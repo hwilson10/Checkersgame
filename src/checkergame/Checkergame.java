@@ -21,6 +21,6 @@ public class Checkergame extends Application {
     
     @Override
     public void start(Stage primaryStage) {
-        
+        //Brent is a loser
     }   
 }
